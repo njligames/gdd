@@ -11,6 +11,9 @@ The LaTeX document uses two custom fonts:
  - Open Sans for titles and sections
  - Gentium Book Basic for the paragraph text (https://fonts.google.com/specimen/Gentium+Book+Basic)
 
+## Run
+`xelatex main.tex`
+
 You can use whatever fonts you like and change font settings at your leisure, but keep in mind that in order to use custom fonts, you'll need to use either XeLaTex compiler or the LuaTeX compiler. PdfLaTeX will not compile this document with custom fonts.
 
 ## License
