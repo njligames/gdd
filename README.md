@@ -6,13 +6,10 @@ This is an adaptation of the game design document made by *Alec Markarian* and *
 URL to the original thread:
 https://forum.unity.com/threads/game-design-document-template.240038/
 
-URL to the original download (.doc file)
-https://docs.google.com/document/d/1-I08qX76DgSFyN1ByIGtPuqXh7bVKraHcNIA25tpAzE/edit?usp=sharing
-
 ## Requirements
 The LaTeX document uses two custom fonts:
  - Open Sans for titles and sections
- - Gentium Book Basic for the paragraph text
+ - Gentium Book Basic for the paragraph text (https://fonts.google.com/specimen/Gentium+Book+Basic)
 
 You can use whatever fonts you like and change font settings at your leisure, but keep in mind that in order to use custom fonts, you'll need to use either XeLaTex compiler or the LuaTeX compiler. PdfLaTeX will not compile this document with custom fonts.
 
